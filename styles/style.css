@@ -26,11 +26,11 @@ section{
     
 }
 
-#Projects{
+#projects{
     height: 360px;
 }
 
-.projects{
+.project{
     text-align: center;
     max-width: 25%;
     float: left;
